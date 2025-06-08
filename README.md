@@ -1,15 +1,11 @@
-# Olá, eu sou Gabriel Rodrigo! 👨‍💻
+# Olá, sou Rodrigo! 👨‍💻
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right">
 
 ### 🔭 Sobre Mim
-Estudante de **Cybersecurity** no Tecnólogo da Impacta e atuando como Engenheiro de Software em uma empresa de pequeno porte. Apesar de estar nos estágios iniciais da minha jornada, sou apaixonado por segurança ofensiva e dedicado a evoluir constantemente na área.
+Atuando como Engenheiro de Software em uma empresa de pequeno porte. Apesar de estar nos estágios iniciais da minha jornada, sou apaixonado por segurança ofensiva e dedicado a evoluir constantemente na área.
 
 🚀 **Objetivo:** Me tornar um especialista em segurança ofensiva, conciliando meus conhecimentos de desenvolvimento de software com técnicas de pentest.
 
----
-
-### 🎓 Formação Acadêmica
-- **Tecnólogo em Cybersecurity** - Faculdade Impacta (Cursando)
 ---
 
 ### 💼 Experiência Profissional
